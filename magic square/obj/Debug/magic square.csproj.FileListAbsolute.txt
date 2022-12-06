@@ -1,0 +1,10 @@
+C:\Users\林家暄\Desktop\magic square\magic square\bin\Debug\magic square.exe.config
+C:\Users\林家暄\Desktop\magic square\magic square\bin\Debug\magic square.exe
+C:\Users\林家暄\Desktop\magic square\magic square\bin\Debug\magic square.pdb
+C:\Users\林家暄\Desktop\magic square\magic square\obj\Debug\magic square.csproj.AssemblyReference.cache
+C:\Users\林家暄\Desktop\magic square\magic square\obj\Debug\magic_square.Form1.resources
+C:\Users\林家暄\Desktop\magic square\magic square\obj\Debug\magic_square.Properties.Resources.resources
+C:\Users\林家暄\Desktop\magic square\magic square\obj\Debug\magic square.csproj.GenerateResource.cache
+C:\Users\林家暄\Desktop\magic square\magic square\obj\Debug\magic square.csproj.CoreCompileInputs.cache
+C:\Users\林家暄\Desktop\magic square\magic square\obj\Debug\magic square.exe
+C:\Users\林家暄\Desktop\magic square\magic square\obj\Debug\magic square.pdb
